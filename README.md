@@ -6,4 +6,5 @@
 
 
 • Inputs: Operating A (6bits), Operating B (6bits), Reset, Clock, Mode Selection (Arithmetic or Logical), Operation Selection (3bits).
+
 • Outputs: Output ALU (6bits), Carryout, Zero
